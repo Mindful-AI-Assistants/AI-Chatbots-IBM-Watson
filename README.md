@@ -16,4 +16,4 @@ Thank you for visiting this repository!
 
 ## 🥧 Chatbot for Pie Ordering:
 
-💬
+💬 A chatbot that allows the user to order pies of different flavors, sizes and quantities. The chatbot also offers payment and delivery options.
