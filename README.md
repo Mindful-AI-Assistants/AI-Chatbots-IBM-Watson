@@ -6,3 +6,5 @@ This repository contains the projects that I developed during the course Fundame
 I hope you enjoy and learn from these examples. If you have any questions or suggestions, please contact me.
 
 Thank you for visiting this repository!
+
+#### <p align="center"> < with love & joy /> ❦
