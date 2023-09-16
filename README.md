@@ -17,3 +17,8 @@ Thank you for visiting this repository!
 ## 🥧 Chatbot for Pie Ordering:
 
 💬 A chatbot that allows the user to order pies of different flavors, sizes and quantities. The chatbot also offers payment and delivery options.
+
+
+   https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/assets/113218619/1730facb-29c9-4ceb-ab54-a3d2910813fb
+
+
