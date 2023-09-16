@@ -29,7 +29,7 @@ https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/assets/113218619/3e75
 
 #
 
-##### <p align="center"> This project is licensed under the AGPL-3.0 License.  </p>
+##### <p align="center"> ⚖︎ This project is licensed under the AGPL-3.0 License. </p>
 
 
 
