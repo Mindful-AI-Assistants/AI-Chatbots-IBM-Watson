@@ -44,6 +44,7 @@ https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/assets/113218619/b295
 
 
 
+
 ## 📚 ChatBots Documentation
 
 - [Intents Documents_Pie Ordering.csv](https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/files/12655557/Intents.Documents_Pie.Ordering.csv)
@@ -51,6 +52,8 @@ https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/assets/113218619/b295
 - [Entities Documents_Pie Ordering.csv](https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/files/12655564/Entities.Documents_Pie.Ordering.csv)
 
 - [Intents Documents_Movies and Series Recommendations.csv](https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/files/12655590/Intents.Documents_Movies.and.Series.Recommendations.csv)
+
+- [Entities Documents_Movies and  Series Recommendations.csv](https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/files/12655608/Entities.Documents_Movies.and.Series.Recommendations.csv)
 
 
 
