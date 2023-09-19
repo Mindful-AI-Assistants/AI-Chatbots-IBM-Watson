@@ -33,7 +33,7 @@ https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/assets/113218619/3e75
 
 ###### <p align="center"> ⚖︎ This project is licensed under the MIT License. </p>
 
-##### <p align="center"> Copyright (c) 2023 Fabiana Campanari - All Rights Reserved  </p>
+###### <p align="center"> Copyright (c) 2023 Fabiana Campanari - All Rights Reserved  </p>
 
 
 
