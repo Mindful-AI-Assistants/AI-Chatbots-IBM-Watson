@@ -32,7 +32,7 @@ https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/assets/113218619/3e75
 
 ## 🍿 Chatbot for Movie and Series Recommendations: 
 
-##### 💬 A chatbot that recommends movies and series according to the user’s preferences. The chatbot uses an external API to get the data of the movies and series.
+##### 💬 A chatbot that recommends movies and series according to the users preferences. The chatbot uses an external API to get the data of the movies and series.
 
 https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/assets/113218619/63696666-bb67-4a45-9fa6-cd406a59cee0
 
