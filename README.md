@@ -20,24 +20,19 @@ Thank you for visiting this repository!
 
 ##### 💬 A chatbot that allows the user to order pies of different flavors, sizes and quantities. The chatbot also offers payment and delivery options.
 
-
 https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/assets/113218619/1fc52994-8c67-4ca6-a331-76065b708d6a
 
 
 ##### 🧠 Building a Neural Network for Movie and Series Recommendation Chatbot
-
 
 https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/assets/113218619/3e75f16e-a908-4526-9b47-4f44d04073a8
 
 
 
 
-
 ## 🍿 Chatbot for Movie and Series Recommendations: 
 
-
 ##### 💬 A chatbot that recommends movies and series according to the user’s preferences. The chatbot uses an external API to get the data of the movies and series.
-
 
 https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/assets/113218619/63696666-bb67-4a45-9fa6-cd406a59cee0
 
