@@ -16,6 +16,7 @@ Thank you for visiting this repository!
 
 
 
+
 ## 🥧 Chatbot for Pie Ordering:
 
 ##### 💬 A chatbot that allows the user to order pies of different flavors, sizes and quantities. The chatbot also offers payment and delivery options.
@@ -37,11 +38,13 @@ https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/assets/113218619/3e75
 https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/assets/113218619/63696666-bb67-4a45-9fa6-cd406a59cee0
 
 
-
 ##### 🧠 Building a Neural Network for Movie and Series Recommendation Chatbot using IBM Watson Assistant - Machine Learning
 
 https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/assets/113218619/b295a083-967c-4ec7-9fbf-3729ae172652
 
+
+
+## 📚 ChatBots Documentation
 
 
 
