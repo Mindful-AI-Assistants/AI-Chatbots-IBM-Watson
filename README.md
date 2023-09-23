@@ -72,11 +72,11 @@ https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/assets/113218619/b295
 
 ## 📝 Score Tests and Grades
 
-[1rd Test with Grade.pdf](https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/files/12706960/1_Score.Test_AI_Machine.Learning.pdf)
+- [1rd Test with Grade.pdf](https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/files/12706960/1_Score.Test_AI_Machine.Learning.pdf)
 
-[2rd Test with Grade.pdf](https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/files/12706964/2_Score.Test_AI_Machine.Learning.pdf)
+- [2rd Test with Grade.pdf](https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/files/12706964/2_Score.Test_AI_Machine.Learning.pdf)
 
-[3rd Test with Grade.pdf](https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/files/12706977/3_Score.Test_AI_Machine.Learning.pdf)
+- 3rd Test with Grade.pdf](https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/files/12706977/3_Score.Test_AI_Machine.Learning.pdf)
 
 
 
