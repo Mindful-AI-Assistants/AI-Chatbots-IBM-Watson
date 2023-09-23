@@ -79,19 +79,6 @@ https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/assets/113218619/b295
 - [3rd Test with Grade.pdf](https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/files/12706977/3_Score.Test_AI_Machine.Learning.pdf)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 #
 
 ###### <p align="center"> ⚖︎ This project is licensed under the MIT License. <p align="center"> Copyright (c) 2023 Fabiana Campanari - All Rights Reserved  </p>
