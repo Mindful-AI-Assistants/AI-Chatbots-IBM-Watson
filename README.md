@@ -63,9 +63,7 @@ https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/assets/113218619/b295
 ## 👩‍🎓 Certificate
 
 <p align="center">
-<img src="" />
-
-![Certificate](https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/assets/113218619/f6557c97-97c9-41ba-a4dd-2057bfb09ecc)
+<img src="https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/assets/113218619/f6557c97-97c9-41ba-a4dd-2057bfb09ecc" />
 
 - [Certificate AI Chatbots IBM Watson Assistant.pdf](https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/files/12706915/7_Cetificate_Course-30446-isohf.pdf)
 
