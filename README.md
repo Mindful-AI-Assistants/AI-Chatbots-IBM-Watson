@@ -1,4 +1,4 @@
-# <p align="center"> 🤖  AI Chatbots with IBM Watson Assistant - No-Code
+# <p align="center"> 🤖  AI Chatbots with IBM Watson No-Code
 
 ### <p align="center">  💪🏽Empowered AI No-Code Chatbots
 
