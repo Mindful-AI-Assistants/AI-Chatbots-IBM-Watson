@@ -55,7 +55,7 @@ https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/assets/113218619/b295
 
 - [Entities Documents_Movies and  Series Recommendations.csv](https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/files/12655608/Entities.Documents_Movies.and.Series.Recommendations.csv)
 
-- [Getty Started with a Dialog Skills _ IBM Watson_IBM Cloud Docs.pdf](https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/files/12655622/Getty.Started.with.a.Dialog.Skills._.IBM.Watson_IBM.Cloud.Docs.pdf)
+(https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/files/12655622/Getty.Started.with.a.Dialog.Skills._.IBM.Watson_IBM.Cloud.Docs.pdf)
 
 
 
