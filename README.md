@@ -12,7 +12,7 @@ Thank you for visiting this repository!
 #### <p align="center"> < with love & joy /> ❦
 
 
-    The chatbot uses Open AI API to get the data of the movies and series recommendation using IBM Watson Assistant - Machine Learning
+    The chatbot uses Open AI API to get the data of the movies and series recommendation using IBM Watson Assistant
 
 
 
