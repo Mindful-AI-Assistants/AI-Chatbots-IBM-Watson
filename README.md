@@ -55,7 +55,7 @@ https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/assets/113218619/b295
 
 - [Entities Documents_Movies and  Series Recommendations.csv](https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/files/12655608/Entities.Documents_Movies.and.Series.Recommendations.csv)
 
-(https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/files/12655622/Getty
+(https://github.com/FabianaCampanari
 
 
 
