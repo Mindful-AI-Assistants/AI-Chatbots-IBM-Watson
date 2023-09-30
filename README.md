@@ -15,7 +15,6 @@ Thank you for visiting this repository!
 
 
 ###### The chatbot uses Open AI API to get the data of "the movies and series recommendation"
-using IBM Watson Assistant
 
 #
 
