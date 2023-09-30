@@ -11,7 +11,7 @@ I hope you enjoy and learn from these examples. If you have any questions or sug
 
 Thank you for visiting this repository!
 
-#### <p align="center"> < with love & joy /> 💎
+###### <p align="center">  < with love & joy /> 💎
 
 
     The chatbot uses Open AI API to get the data of "the movies and series recommendation"
