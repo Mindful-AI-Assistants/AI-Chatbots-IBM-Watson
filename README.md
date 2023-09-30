@@ -71,8 +71,7 @@ https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/assets/113218619/b295
 <p align="center">
 <img src="https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/assets/113218619/f6557c97-97c9-41ba-a4dd-2057bfb09ecc" />
 
-
-
+<br>
 
 ## 📝 Score Tests and Grades
 
