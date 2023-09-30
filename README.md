@@ -62,8 +62,7 @@ https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/assets/113218619/b295
 
 - [Started Dialog Skills_IBM Watson Assistant.pdf](https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/files/12707958/Started.Dialog.Skills_IBM.Watson.Assistant.pdf)
 
-
-
+<br>
 
 ## 👩‍🎓 Certificate
 
