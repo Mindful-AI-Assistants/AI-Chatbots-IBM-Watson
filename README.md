@@ -27,9 +27,7 @@ Thank you for visiting this repository!
 
 <br>
 
-https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/assets/113218619/1fc52994-8c67-4ca6-a331-76065b708d6a
-
- <br>
+https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/assets/113218619/1fc52994-8c67-4ca6-a331-76065b708d6a  <br>
 
 ##### 🧠 Building a Neural Network for Movie and Series Recommendation Chatbot
 
