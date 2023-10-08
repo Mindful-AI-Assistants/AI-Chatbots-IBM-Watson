@@ -28,9 +28,8 @@ Thank you for visiting this repository!
 https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/assets/113218619/1fc52994-8c67-4ca6-a331-76065b708d6a
 
 <br>
-🧠 Building a Neural Network for Movie and Series Recommendation Chatbot using IBM Watson Assistant - Machine Learning
 
- 2. 🧠 Building a Neural Network for Pie Orgering Chatbot using IBM Watson - Slots - Machine Learnig Chatbot<br>
+ 2. 🧠 Building a Neural Network for Pie Orgering Chatbot using IBM Watson - Slots - Machine Learnig. Chatbot<br>
 
 https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/assets/113218619/3e75f16e-a908-4526-9b47-4f44d04073a8
 
