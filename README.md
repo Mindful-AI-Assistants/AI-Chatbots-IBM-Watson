@@ -44,15 +44,14 @@ https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/assets/113218619/6369
 
  <br>
 
-2. 🧠 Building a Neural Network for Movie and Series Recommendation Chatbot with IBM Watson - Child Node - Machine Learning
-
-<br>
+2. 🧠 Building a Neural Network for Movie and Series Recommendation Chatbot with IBM Watson - Child Node - Machine Learning.<br>
 
 https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/assets/113218619/b295a083-967c-4ec7-9fbf-3729ae172652
 
 <br>
 
 ## 📚 ChatBots Documentation
+<br>
 
 - [Intents Documents_Pie Ordering.csv](https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/files/12655557/Intents.Documents_Pie.Ordering.csv)
 
