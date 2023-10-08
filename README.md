@@ -29,7 +29,7 @@ https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/assets/113218619/1fc5
 
 <br>
 
- 2. 🧠 Building a Neural Network for Pie Ordering Chatbot with IBM Watson - Slots - Machine Learnig. Chatbot<br>
+ 2. 🧠 Building a Neural Network for Pie Ordering Chatbot with IBM Watson - Slots - Machine Learnig.<br>
 
 https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/assets/113218619/3e75f16e-a908-4526-9b47-4f44d04073a8
 
