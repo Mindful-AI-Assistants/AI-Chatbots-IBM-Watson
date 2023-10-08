@@ -66,6 +66,7 @@ https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/assets/113218619/b295
 <br>
 
 ## 👩‍🎓 Certificate
+<br>
 
 - [Certificate AI Chatbots IBM Watson Assistant.pdf](https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/files/12706915/7_Cetificate_Course-30446-isohf.pdf)
 
@@ -75,6 +76,7 @@ https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/assets/113218619/b295
 <br>
 
 ## 📝 Score Tests and Grades
+<br>
 
 - [1rd Test with Grade.pdf](https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/files/12706960/1_Score.Test_AI_Machine.Learning.pdf)
 
@@ -82,8 +84,7 @@ https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/assets/113218619/b295
 
 - [3rd Test with Grade.pdf](https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/files/12706977/3_Score.Test_AI_Machine.Learning.pdf)
 
-
-#
+<br>
 
 ###### <p align="center"> ⚖︎ This project is licensed under the MIT License. <p align="center"> Copyright (c) 2023 Fabiana Campanari - All Rights Reserved  
 
