@@ -44,7 +44,7 @@ https://github.com/FabianaCampanari/AI-Chatbots-IBM-Watson/assets/113218619/6369
 
  <br>
 
-##### 🧠 Building a Neural Network for Movie and Series Recommendation Chatbot using IBM Watson Assistant - Machine Learning
+2. 🧠 Building a Neural Network for Movie and Series Recommendation Chatbot using IBM Watson Assistant - Machine Learning
 
 <br>
 
