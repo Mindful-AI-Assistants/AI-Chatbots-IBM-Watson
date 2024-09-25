@@ -60,7 +60,6 @@ https://github.com/Quantum-Software-Development/AI-Chatbot-IBM-Watson/assets/113
 - [Getty Started with a Dialog Skills _ IBM Watson_IBM Cloud Docs.pdf](https://github.com/Quantum-Software-Development/AI-Chatbot-IBM-Watson/files/12565142/Getty.Started.with.a.Dialog.Skills._.IBM.Watson_IBM.Cloud.Docs.pdf)
 
 
-#
 
 ## 👩‍🎓 Certificate 
 
